@@ -3,8 +3,8 @@
  » 🖥️ Information Technology (IT)
  » 📚 C and Algorithm
   
- <div align="center"> 
-   <a href="https://linktr.ee/joao.castilho"> 
+ <div align="center" > 
+   <a href="https://linktr.ee/joao.castilho" >
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-araujoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-araujoo&layout=compact&langs_count=7&theme=dark"/> 
  </div> 
