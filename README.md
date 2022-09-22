@@ -1,7 +1,7 @@
 ##  Hi, I'm Castilho, nothing else.
   
  -  🖥️ Information Technology (IT)
- -  📚 Studying C and Python
+ -  📚 Studying C 
   
  <div align="center">
   <a href="https://linktr.ee/joao.castilho">
