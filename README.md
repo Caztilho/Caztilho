@@ -9,7 +9,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caztilho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div display-flex: center style="display: inline_block"><br>
+<div display:flex; style="display: inline_block"><br>
   <img align="center" alt="Joao-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Joao-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
               />
