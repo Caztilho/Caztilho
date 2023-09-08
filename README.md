@@ -3,11 +3,7 @@
  -  🖥️ Information Technology (IT)
  -  📚 Studying Python, PHP, C#, HTML and CSS
   
- <div align="center">
-  <a href="https://linktr.ee/joao.castilho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caztilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caztilho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Joao-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
