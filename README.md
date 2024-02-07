@@ -1,7 +1,7 @@
 ##  Hi, I'm Castilho, nothing else.
   
  -  🖥️ Information Technology (IT)
- -  📚 Studying Python, PHP, C#, HTML and CSS
+ -  📚 Studying JavaScript, Python, PHP, HTML and CSS
   
  
 
