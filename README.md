@@ -1,7 +1,6 @@
 ## Hi, I'm Castilho, nothing else.
   
 - 🖥️ Information Technology (IT)
-- 📚 Studying JavaScript, Python, PHP, HTML, and CSS
 
 <div align="center" style="display: inline_block"><br>
 
@@ -18,6 +17,8 @@
   <img align="center" alt="Joao-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
   <img align="center" alt="Joao-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  
+  <img align="center" alt="Joao-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
   <img align="center" alt="Joao-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framework7/framework7-original.svg" />
 
