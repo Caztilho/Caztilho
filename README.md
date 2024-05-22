@@ -1,6 +1,6 @@
 ## Hi, I'm Castilho, nothing else.
   
-- 🖥️ Information Technology (IT)
+- 🖥️ IT technician | Full-stack Developer 
 
 <div align="center" style="display: inline_block"><br>
 
